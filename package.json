@@ -9,7 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/auth-helpers-nextjs": "^0.15.0",
+    "@supabase/supabase-js": "^2.100.0",
+    "framer-motion": "^12.38.0",
+    "groq-sdk": "^1.1.2",
     "next": "16.2.1",
+    "openai": "^6.32.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
